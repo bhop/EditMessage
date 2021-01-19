@@ -1,7 +1,7 @@
 import discord
 
 token = "your token" # put your token here
-clientID = "your client id" # put your client id here
+clientID =  # put your client id here (eg: clientid: 773630450048565308)
 
 class MyClient(discord.Client):
     async def on_ready(self):
