@@ -1,8 +1,8 @@
 import discord
 
 char = '\u202b'
-token = "your token" # put your token here
-clientid = "your client id" # put your client id here
+token = "your token" # put your token here in the quotes
+clientid =  # put your client id here (eg: clientid: 773630450048565308)
 
 
 class MyClient(discord.Client):
